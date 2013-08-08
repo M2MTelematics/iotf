@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jxb:bindings  version="2.1" xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
+                xmlns:xs="http://www.w3.org/2000/10/XMLSchema">
+    <jxb:bindings schemaLocation="TupleInfo.xsd">
+    <jxb:schemaBindings>
+        <jxb:package name="com.symphony.bigdata.jaxb" />
+    </jxb:schemaBindings>
+    </jxb:bindings>
+</jxb:bindings>
